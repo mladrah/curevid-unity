@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b078cbee9a1c0234e9acda92d5ab4b42, type: 3}
+  m_Name: ai_socialising_1
+  m_EditorClassIdentifier: 
+  _name: '[AI] Socialising 1'
+  _description: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+    kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. '
+  _activeDuration: 0
+  _icon: {fileID: 21300000, guid: 415f9a2155ce85247b350f05851ca7ce, type: 3}
+  _modifiers:
+  - _name: Infection (S)
+    _effectType: 1
+    _modifierType: 4
+    _subModifierType: 3
+    _valueType: 0
+    _value: -0.1
+  _family:
+  - {fileID: 11400000, guid: 7ace367390dd7cd4ca5d7d3a1162cc05, type: 2}
+  - {fileID: 11400000, guid: d45bf7fac95317d418f1a104e7b6d570, type: 2}
+  _familyName: Socialising

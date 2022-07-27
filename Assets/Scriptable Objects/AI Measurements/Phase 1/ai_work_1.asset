@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b078cbee9a1c0234e9acda92d5ab4b42, type: 3}
+  m_Name: ai_work_1
+  m_EditorClassIdentifier: 
+  _name: '[AI] Work 1'
+  _description: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+    kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. '
+  _activeDuration: 0
+  _icon: {fileID: 21300000, guid: a5965c59681560a48bbd69596bb952de, type: 3}
+  _modifiers:
+  - _name: Infection (W)
+    _effectType: 1
+    _modifierType: 4
+    _subModifierType: 5
+    _valueType: 0
+    _value: -0.2
+  _family:
+  - {fileID: 11400000, guid: b513277e02f6bcf49a2db70cf94cfd18, type: 2}
+  - {fileID: 11400000, guid: 403a8cede0031d349b50a6bb1061e1e5, type: 2}
+  _familyName: Work

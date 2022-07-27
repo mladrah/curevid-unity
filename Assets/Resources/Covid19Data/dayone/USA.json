@@ -1,0 +1,14 @@
+[
+    {
+      "Country":"USA",
+      "CountryCode":"USA",
+      "Province":"",
+      "City":"",
+      "CityCode":"",
+      "Lat":"",
+      "Lon":"",
+      "Cases":1,
+      "Status":"confirmed",
+      "Date":"2020-01-20T00:00:00Z"
+    }
+]

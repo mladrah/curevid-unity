@@ -1,0 +1,14 @@
+[
+   {
+      "Country":"Greenland",
+      "CountryCode":"GL",
+      "Province":"",
+      "City":"",
+      "CityCode":"",
+      "Lat":"33.94",
+      "Lon":"67.71",
+      "Cases":1,
+      "Status":"confirmed",
+      "Date":"2020-03-16T00:00:00Z"
+   }
+]

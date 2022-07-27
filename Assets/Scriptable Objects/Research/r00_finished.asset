@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40531573442045344a402b1861a37c2e, type: 3}
+  m_Name: r00_finished
+  m_EditorClassIdentifier: 
+  _name: 
+  _description: 
+  _duration: 1
+  _cost: 0
+  _dailyCost: 0
+  _isMandatory: 0
+  _modifiers:
+  - _name: Safety
+    _effectType: 1
+    _modifierType: 6
+    _subModifierType: 2
+    _valueType: 0
+    _value: 0.5
+  - _name: Effectivity
+    _effectType: 1
+    _modifierType: 6
+    _subModifierType: 1
+    _valueType: 0
+    _value: 0.9
+  _icon: {fileID: 0}

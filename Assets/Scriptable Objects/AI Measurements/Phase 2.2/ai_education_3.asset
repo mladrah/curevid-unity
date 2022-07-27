@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b078cbee9a1c0234e9acda92d5ab4b42, type: 3}
+  m_Name: ai_education_3
+  m_EditorClassIdentifier: 
+  _name: '[AI] Education 3'
+  _description: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+    kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. '
+  _activeDuration: 0
+  _icon: {fileID: 21300000, guid: 742d30e848dde5f43894a98a57be2703, type: 3}
+  _modifiers:
+  - _name: Infection (E)
+    _effectType: 1
+    _modifierType: 4
+    _subModifierType: 4
+    _valueType: 0
+    _value: -0.8
+  _family:
+  - {fileID: 11400000, guid: 4552d5bf1430361438d5fc4c7d7a2f0b, type: 2}
+  - {fileID: 11400000, guid: c593e0f4c8511284fad1ed3aee552c65, type: 2}
+  _familyName: Education

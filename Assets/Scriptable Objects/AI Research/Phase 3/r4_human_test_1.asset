@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40531573442045344a402b1861a37c2e, type: 3}
+  m_Name: r4_human_test_1
+  m_EditorClassIdentifier: 
+  _name: Phase 1
+  _description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+    kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+  _duration: 20
+  _cost: 75
+  _dailyCost: 3
+  _isMandatory: 1
+  _modifiers:
+  - _name: Effectivity
+    _effectType: 1
+    _modifierType: 6
+    _subModifierType: 1
+    _valueType: 0
+    _value: 0.15
+  _icon: {fileID: 21300000, guid: 329d56042df2be1408af3a324178842c, type: 3}

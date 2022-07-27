@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2faf76f8179e1d14ab354c77a0096f81, type: 3}
+  m_Name: e_init_covid
+  m_EditorClassIdentifier: 
+  _title: Init Covid-19
+  _description: Wuhan Municipal Health Commission, China, reported a cluster of cases
+    of pneumonia in Wuhan, Hubei Province. A novel coronavirus was identified.
+  _duration: 20
+  _options:
+  - description: Start Curevid
+    modifiers:
+    - _name: Infection (S)
+      _effectType: 1
+      _modifierType: 4
+      _subModifierType: 3
+      _valueType: 1
+      _value: 0.2
+    - _name: Infection (E)
+      _effectType: 1
+      _modifierType: 4
+      _subModifierType: 4
+      _valueType: 1
+      _value: 0.2
+    - _name: Infection (W)
+      _effectType: 1
+      _modifierType: 4
+      _subModifierType: 5
+      _valueType: 1
+      _value: 0.2
+    - _name: Infection (A)
+      _effectType: 1
+      _modifierType: 4
+      _subModifierType: 6
+      _valueType: 1
+      _value: 0.2
+    - _name: Infection (G)
+      _effectType: 1
+      _modifierType: 4
+      _subModifierType: 7
+      _valueType: 1
+      _value: 0.2
+  _area: 3
+  AreaNames:
+  - China
+  _date:
+    day: 1
+    month: 1
+    year: 2020
